@@ -37,4 +37,4 @@ The data are not included. Check the licence on the Kaggle dataset page before r
 
 ## Context and author
 
-Student research project (Research Task in Statistics) in the MSc Transportation Economics programme at TU Dresden, supervised by Prof. Dr. Ostap Okhrin, 2026. Author: Ali Mirza. Released under the MIT licence.
+Student research project (Research Task in Statistics) in the MSc Transportation Economics programme at TU Dresden, 2026. Author: Ali Mirza. Released under the MIT licence.
